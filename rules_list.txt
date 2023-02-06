@@ -1,8 +1,7 @@
 ! [9gag bots accounts]
 ! Title: 9gag bots filter
 ! Description: Removes posts made by bots and anonymous users.
-! Version: 1.0
-! Expires: 1 days (update frequency)
+! Expires: 1 days (update frequency) 
 
 9gag.com##:xpath(//article[header/div/div/a = "25279ic"])
 9gag.com##:xpath(//article[header/div/div/a = "9GAGGER"])
@@ -34,9 +33,11 @@
 9gag.com##:xpath(//article[header/div/div/a = "manyleggsss"])
 9gag.com##:xpath(//article[header/div/div/a = "muchcatsss"])
 9gag.com##:xpath(//article[header/div/div/a = "muchfishesss"])
+9gag.com##:xpath(//article[header/div/div/a = "nothing_but_air"])
 9gag.com##:xpath(//article[header/div/div/a = "nowicu"])
 9gag.com##:xpath(//article[header/div/div/a = "nutcracck"])
 9gag.com##:xpath(//article[header/div/div/a = "nutcracckerr"])
+9gag.com##:xpath(//article[header/div/div/a = "nz22"])
 9gag.com##:xpath(//article[header/div/div/a = "rocklongcat"])
 9gag.com##:xpath(//article[header/div/div/a = "rr2dd2"])
 9gag.com##:xpath(//article[header/div/div/a = "sadcarrr"])
@@ -46,6 +47,7 @@
 9gag.com##:xpath(//article[header/div/div/a = "sandudes"])
 9gag.com##:xpath(//article[header/div/div/a = "sheilac804"])
 9gag.com##:xpath(//article[header/div/div/a = "smaccker"])
+9gag.com##:xpath(//article[header/div/div/a = "smackker"])
 9gag.com##:xpath(//article[header/div/div/a = "summonar"])
 9gag.com##:xpath(//article[header/div/div/a = "tuesdaywee"])
 9gag.com##:xpath(//article[header/div/div/a = "walkingbirbb"])
