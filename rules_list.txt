@@ -32,6 +32,7 @@
 9gag.com##:xpath(//article[header/div/div/a = "happysaddd"])
 9gag.com##:xpath(//article[header/div/div/a = "i5i29"])
 9gag.com##:xpath(//article[header/div/div/a = "idudus"])
+9gag.com##:xpath(//article[header/div/div/a = "jaydhillon"])
 9gag.com##:xpath(//article[header/div/div/a = "karlan222222"])
 9gag.com##:xpath(//article[header/div/div/a = "lalisaaa"])
 9gag.com##:xpath(//article[header/div/div/a = "lixen1313"])
