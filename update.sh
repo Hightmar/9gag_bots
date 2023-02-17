@@ -10,4 +10,5 @@ sed -i '/!/d
 sort -o rules_list.txt{,}
 uniq rules_list.txt rules_list.tmp && cat rules_list.tmp > rules_list.txt && rm rules_list.tmp
 
+
 sed -i '1s/^/! [9gag bots accounts]\n! Title: 9gag bots filter\n! Description: Removes posts made by bots and anonymous users.\n! Expires: 1 days (update frequency) \n\n/' rules_list.txt
