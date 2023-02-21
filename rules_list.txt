@@ -10,6 +10,7 @@
 9gag.com##:xpath(//article[header/div/div/a = "anguybirb"])
 9gag.com##:xpath(//article[header/div/div/a = "attackondoge1"])
 9gag.com##:xpath(//article[header/div/div/a = "boboboyyy"])
+9gag.com##:xpath(//article[header/div/div/a = "butcherthebilly"])
 9gag.com##:xpath(//article[header/div/div/a = "catchemall1"])
 9gag.com##:xpath(//article[header/div/div/a = "catlicking"])
 9gag.com##:xpath(//article[header/div/div/a = "cctvbbb"])

@@ -1,4 +1,4 @@
-![Branch](https://img.shields.io/badge/branch-main-brightgreen)
+![Branche](https://img.shields.io/badge/branch-contributions-blue)
 
 # uBlock Origin filter against bots
 
